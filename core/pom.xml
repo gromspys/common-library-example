@@ -11,5 +11,4 @@
 	<version>${project.parent.version}</version>
 	<name>core</name>
 	<description>Demo project</description>
-
 </project>
