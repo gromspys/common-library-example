@@ -1,0 +1,1 @@
+This repository is used as an example in my article [Code Sharing in Microservice Architecture: Creating Your Own Common Library](https://hackernoon.com/code-sharing-in-microservice-architecture-creating-your-own-common-library)
